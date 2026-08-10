@@ -69,7 +69,3 @@ Interpretation: the identified microbiome clusters were most meaningfully associ
 - R workflow source for Question 1: `mediation`, `dplyr`, `ggplot2`, `patchwork`
 - Python workflow source for Questions 2 and 3: `pandas`, `numpy`, `scikit-learn`, `scipy`, `matplotlib`, `seaborn`
 - Statistical ideas used: bootstrap mediation, Hedges' g, 95% confidence intervals, silhouette score, Kruskal-Wallis testing
-
-## Portfolio Description
-
-Diet, Sex, and Microbiome Structure in Aging: A Multi-View Analysis of the NUAGE Cohort demonstrates a multi-view microbiome analysis workflow in an aging cohort by combining longitudinal mediation analysis, effect-size statistics, and unsupervised clustering to connect diet adherence, microbiome structure, cognition, inflammation, and functional health.
